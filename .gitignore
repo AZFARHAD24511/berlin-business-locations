@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data (do not commit raw or generated datasets by default)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Generated outputs; commit selected final figures/tables only after review
+reports/figures/*
+!reports/figures/.gitkeep
+
+# Local secrets and OS files
+.env
+.DS_Store
+Thumbs.db
