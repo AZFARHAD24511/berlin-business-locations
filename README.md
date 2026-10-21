@@ -90,7 +90,25 @@ Open notebooks in VS Code or Jupyter and select the project's `.venv` Python int
 Use fixed random seeds where sampling is involved. Save analysis parameters and data timestamps with generated outputs. Avoid silently overwriting source files. Keep raw data out of Git and do not publish personal or restricted data.
 
 ## License and data attribution
-No project license has been selected yet. Before adding a license, decide how the code may be reused. Dataset rights and terms are separate from the repository's code license. Cite the source dataset and review its applicable terms before redistributing data or derived extracts.
+
+**Reports and visualizations:** Original reports, charts, and visualizations
+created for this project by Azizallah Farhadi (@AZFARHAD24511) are licensed
+under CC BY 4.0, to the extent that the author holds the necessary rights.
+See [`reports/LICENSE-CC-BY-4.0.md`](reports/LICENSE-CC-BY-4.0.md).
+
+**Suggested attribution:**
+
+Azizallah Farhadi (@AZFARHAD24511), *Berlin Business Locations*,
+https://github.com/AZFARHAD24511/berlin-business-locations,
+licensed under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+
+**Source data:** The IHK Berlin dataset is separate from this project's
+original materials. Check the publisher's current license and terms before
+redistributing source data or derived extracts.
+
+**Code:** No code license has been selected yet. Unless a license is added,
+do not assume that the project's source code is licensed for unrestricted reuse.
 
 ## Monthly Trend and Key Findings
 
