@@ -91,3 +91,35 @@ Use fixed random seeds where sampling is involved. Save analysis parameters and 
 
 ## License and data attribution
 No project license has been selected yet. Before adding a license, decide how the code may be reused. Dataset rights and terms are separate from the repository's code license. Cite the source dataset and review its applicable terms before redistributing data or derived extracts.
+
+## Monthly Business Trend
+
+This analysis examines monthly business-record counts in Berlin using historical
+IHK Berlin Gewerbedaten snapshots. The chart compares the original monthly series
+with an exploratory adjusted series.
+
+![Monthly business trend comparison](reports/figures/monthly_business_trend_comparison.png)
+
+### Data source
+
+- **Publisher:** IHK Berlin
+- **Official dataset page:** https://www.ihk.de/berlin/service-und-beratung/digitalisierung/open-data-5691102
+- **Official dataset repository and archive:** https://github.com/IHKBerlin/IHKBerlin_Gewerbedaten
+- **License stated by the publisher:** CC0 (Creative Commons Zero)
+- **Local source snapshot used for this analysis:** `documents-export-2026-10-17.zip`
+- **Coverage analyzed:** monthly CSV snapshots available from 2023 through October 2026.
+
+The raw archive is not included in this repository because of its size. Obtain the
+source files from the official publisher before rerunning the analysis.
+
+### Methodology and limitations
+
+Monthly counts are calculated from the `opendata_id` field in the monthly source
+files. The adjusted series is an exploratory comparison based on candidate IDs
+associated with the January 2026 anomaly. These candidates have not been
+independently confirmed to be erroneous records; therefore, the adjusted series
+must not be interpreted as an officially corrected count.
+
+Source data may be revised by the publisher. Results depend on the snapshot date
+and the inclusion and exclusion rules used. Check the source archive and analysis
+code before comparing results across runs.
