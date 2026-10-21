@@ -1,0 +1,9 @@
+{
+  "valid_coordinate_records": 366368,
+  "unique_coordinate_pairs": 190020,
+  "pairs_shared_by_multiple_records": 63072,
+  "pairs_with_10_or_more_records": 2634,
+  "pairs_with_100_or_more_records": 52,
+  "records_on_shared_coordinates": 239420,
+  "interpretation": "Shared coordinates do not prove incorrect geocoding. Multiple businesses may share an address or approximate point."
+}

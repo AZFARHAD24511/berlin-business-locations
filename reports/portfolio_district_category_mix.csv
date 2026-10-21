@@ -1,0 +1,975 @@
+﻿Bezirk,branch_top_level_desc,record_count,district_share_pct
+Charlottenburg-Wilmersdorf,Abwasserentsorgung,10,0.018
+Charlottenburg-Wilmersdorf,Beherbergung,552,1.012
+Charlottenburg-Wilmersdorf,Beseitigung von Umweltverschmutzungen und sonstige Tätigkeiten in der Abfallbewirtschaftung,3,0.005
+Charlottenburg-Wilmersdorf,"Bibliotheken, Archive, Museen, botanische und zoologische Gärten",116,0.213
+Charlottenburg-Wilmersdorf,"Datenverarbeitung, Hosting und Erbringung sonstiger Informationsdienstleistungen",445,0.816
+Charlottenburg-Wilmersdorf,Einzelhandel,6231,11.422
+Charlottenburg-Wilmersdorf,Energieversorgung,553,1.014
+Charlottenburg-Wilmersdorf,Erbringung von Dienstleistungen der Informationstechnologie,2251,4.126
+Charlottenburg-Wilmersdorf,"Erbringung von Dienstleistungen des Sports, der Unterhaltung und der Erholung",958,1.756
+Charlottenburg-Wilmersdorf,Erbringung von Finanzdienstleistungen,5611,10.286
+Charlottenburg-Wilmersdorf,Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen,1561,2.862
+Charlottenburg-Wilmersdorf,Erbringung von überwiegend persönlichen Dienstleistungen,1714,3.142
+Charlottenburg-Wilmersdorf,Erzbergbau,1,0.002
+Charlottenburg-Wilmersdorf,Erziehung und Unterricht,1072,1.965
+Charlottenburg-Wilmersdorf,Exterritoriale Organisationen und Körperschaften,10,0.018
+Charlottenburg-Wilmersdorf,Fischerei und Aquakultur,1,0.002
+Charlottenburg-Wilmersdorf,Forschung und Entwicklung,245,0.449
+Charlottenburg-Wilmersdorf,Forstwirtschaft und Holzeinschlag,7,0.013
+Charlottenburg-Wilmersdorf,Gastronomie,2568,4.708
+Charlottenburg-Wilmersdorf,"Gebäudebetreuung, Garten- und Landschaftsbau",844,1.547
+Charlottenburg-Wilmersdorf,Gesundheitswesen,757,1.388
+Charlottenburg-Wilmersdorf,Getränkeherstellung,24,0.044
+Charlottenburg-Wilmersdorf,Gewinnung von Erdöl und Erdgas,1,0.002
+Charlottenburg-Wilmersdorf,"Gewinnung von Steinen und Erden, sonstiger Bergbau",4,0.007
+Charlottenburg-Wilmersdorf,Großhandel,2410,4.418
+Charlottenburg-Wilmersdorf,Grundstücks- und Wohnungswesen,8824,16.176
+Charlottenburg-Wilmersdorf,"Heime, ohne Erholungs- und Ferienheime",87,0.159
+Charlottenburg-Wilmersdorf,Herstellung von Bekleidung,70,0.128
+Charlottenburg-Wilmersdorf,"Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen",112,0.205
+Charlottenburg-Wilmersdorf,"Herstellung von Druckerzeugnissen, Vervielfältigung von bespielten Ton-, Bild- und Datenträgern",68,0.125
+Charlottenburg-Wilmersdorf,"Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden",18,0.033
+Charlottenburg-Wilmersdorf,Herstellung von Gummi- und Kunststoffwaren,13,0.024
+Charlottenburg-Wilmersdorf,"Herstellung von Holz-, Flecht-, Korb- und Korkwaren, ohne Möbel",19,0.035
+Charlottenburg-Wilmersdorf,Herstellung von Kraftwagen und Kraftwagenteilen,9,0.016
+Charlottenburg-Wilmersdorf,"Herstellung von Leder, Lederwaren und ähnlichen Produkten aus anderen Materialen",5,0.009
+Charlottenburg-Wilmersdorf,Herstellung von Metallerzeugnissen,36,0.066
+Charlottenburg-Wilmersdorf,Herstellung von Möbeln,26,0.048
+Charlottenburg-Wilmersdorf,Herstellung von Nahrungs- und Futtermitteln,178,0.326
+Charlottenburg-Wilmersdorf,"Herstellung von Papier, Pappe und Waren daraus",6,0.011
+Charlottenburg-Wilmersdorf,Herstellung von Textilien,59,0.108
+Charlottenburg-Wilmersdorf,Herstellung von chemischen Erzeugnissen,79,0.145
+Charlottenburg-Wilmersdorf,Herstellung von elektrischen Ausrüstungen,26,0.048
+Charlottenburg-Wilmersdorf,Herstellung von pharmazeutischen Erzeugnissen,24,0.044
+Charlottenburg-Wilmersdorf,Herstellung von sonstigen Waren,260,0.477
+Charlottenburg-Wilmersdorf,"Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen, Kinos, Tonstudios und Verlegen von Musik",930,1.705
+Charlottenburg-Wilmersdorf,Hochbau,305,0.559
+Charlottenburg-Wilmersdorf,"Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen, ohne Sozialwesen und Sport",226,0.414
+Charlottenburg-Wilmersdorf,Kokerei und Mineralölverarbeitung,4,0.007
+Charlottenburg-Wilmersdorf,Kunstschaffende Tätigkeiten und Tätigkeiten in der darstellenden Kunst,392,0.719
+Charlottenburg-Wilmersdorf,Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr,335,0.614
+Charlottenburg-Wilmersdorf,Landverkehr und Transport in Rohrfernleitungen,686,1.258
+Charlottenburg-Wilmersdorf,"Landwirtschaft, Jagd und damit verbundene Tätigkeiten",35,0.064
+Charlottenburg-Wilmersdorf,Luftfahrt,7,0.013
+Charlottenburg-Wilmersdorf,Maschinenbau,45,0.082
+Charlottenburg-Wilmersdorf,Metallerzeugung und -bearbeitung,6,0.011
+Charlottenburg-Wilmersdorf,Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten,1332,2.442
+Charlottenburg-Wilmersdorf,"Post-, Kurier- und Expressdienste",265,0.486
+Charlottenburg-Wilmersdorf,Private Haushalte mit Hauspersonal,1,0.002
+Charlottenburg-Wilmersdorf,"Rechts- und Steuerberatung, Wirtschaftsprüfung",671,1.23
+Charlottenburg-Wilmersdorf,"Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen",369,0.676
+Charlottenburg-Wilmersdorf,Reparatur und Instandhaltung von Datenverarbeitungsgeräten und Gebrauchsgütern sowie von Kraftwagen und Krafträdern,141,0.258
+Charlottenburg-Wilmersdorf,"Reparatur, Instandhaltung und Installation von Maschinen und Ausrüstungen",18,0.033
+Charlottenburg-Wilmersdorf,"Rundfunkveranstalter, Nachrichtenagenturen und sonstige Verbreitung von Medieninhalten",444,0.814
+Charlottenburg-Wilmersdorf,"Sammlung, Verwertung und Beseitigung von Abfällen",48,0.088
+Charlottenburg-Wilmersdorf,Schifffahrt,6,0.011
+Charlottenburg-Wilmersdorf,Sonstige wissenschaftliche und technische Tätigkeiten,1473,2.7
+Charlottenburg-Wilmersdorf,Sonstiger Fahrzeugbau,10,0.018
+Charlottenburg-Wilmersdorf,"Sozialwesen, ohne Heime",393,0.72
+Charlottenburg-Wilmersdorf,"Spiel-, Wett- und Lotteriewesen",141,0.258
+Charlottenburg-Wilmersdorf,Tabakverarbeitung,1,0.002
+Charlottenburg-Wilmersdorf,Telekommunikation,56,0.103
+Charlottenburg-Wilmersdorf,Tiefbau,53,0.097
+Charlottenburg-Wilmersdorf,"Tätigkeiten von Architektur- und Ingenieurbüros, technische, physikalische und chemische Untersuchung",1114,2.042
+Charlottenburg-Wilmersdorf,Verlagswesen,249,0.456
+Charlottenburg-Wilmersdorf,Vermietung und Leasing,381,0.698
+Charlottenburg-Wilmersdorf,Vermittlung und Überlassung von Arbeitskräften,320,0.587
+Charlottenburg-Wilmersdorf,"Versicherungen, Rückversicherungen und Pensionskassen, ohne Sozialversicherung",30,0.055
+Charlottenburg-Wilmersdorf,"Verwaltung und Führung von Unternehmen und Betrieben, Unternehmensberatung",3298,6.046
+Charlottenburg-Wilmersdorf,Veterinärwesen,6,0.011
+Charlottenburg-Wilmersdorf,"Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe",1038,1.903
+Charlottenburg-Wilmersdorf,Wach- und Sicherheitsdienste sowie Detekteien,191,0.35
+Charlottenburg-Wilmersdorf,Wasserversorgung,3,0.005
+Charlottenburg-Wilmersdorf,Werbung und Marktforschung sowie Public-Relations-Beratung,1642,3.01
+Charlottenburg-Wilmersdorf,"Öffentliche Verwaltung, Verteidigung, Sozialversicherung",1,0.002
+Charlottenburg-Wilmersdorf,,17,0.031
+Friedrichshain-Kreuzberg,Abwasserentsorgung,3,0.008
+Friedrichshain-Kreuzberg,Beherbergung,261,0.718
+Friedrichshain-Kreuzberg,Beseitigung von Umweltverschmutzungen und sonstige Tätigkeiten in der Abfallbewirtschaftung,3,0.008
+Friedrichshain-Kreuzberg,"Bibliotheken, Archive, Museen, botanische und zoologische Gärten",70,0.193
+Friedrichshain-Kreuzberg,"Datenverarbeitung, Hosting und Erbringung sonstiger Informationsdienstleistungen",451,1.242
+Friedrichshain-Kreuzberg,Einzelhandel,4339,11.944
+Friedrichshain-Kreuzberg,Energieversorgung,132,0.363
+Friedrichshain-Kreuzberg,Erbringung von Dienstleistungen der Informationstechnologie,2479,6.824
+Friedrichshain-Kreuzberg,"Erbringung von Dienstleistungen des Sports, der Unterhaltung und der Erholung",1224,3.369
+Friedrichshain-Kreuzberg,Erbringung von Finanzdienstleistungen,2620,7.212
+Friedrichshain-Kreuzberg,Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen,1077,2.965
+Friedrichshain-Kreuzberg,Erbringung von überwiegend persönlichen Dienstleistungen,1665,4.583
+Friedrichshain-Kreuzberg,Erziehung und Unterricht,1049,2.888
+Friedrichshain-Kreuzberg,Exterritoriale Organisationen und Körperschaften,6,0.017
+Friedrichshain-Kreuzberg,Fischerei und Aquakultur,1,0.003
+Friedrichshain-Kreuzberg,Forschung und Entwicklung,108,0.297
+Friedrichshain-Kreuzberg,Gastronomie,3002,8.264
+Friedrichshain-Kreuzberg,"Gebäudebetreuung, Garten- und Landschaftsbau",548,1.509
+Friedrichshain-Kreuzberg,Gesundheitswesen,298,0.82
+Friedrichshain-Kreuzberg,Getränkeherstellung,37,0.102
+Friedrichshain-Kreuzberg,Großhandel,1065,2.932
+Friedrichshain-Kreuzberg,Grundstücks- und Wohnungswesen,1852,5.098
+Friedrichshain-Kreuzberg,"Heime, ohne Erholungs- und Ferienheime",11,0.03
+Friedrichshain-Kreuzberg,Herstellung von Bekleidung,79,0.217
+Friedrichshain-Kreuzberg,"Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen",61,0.168
+Friedrichshain-Kreuzberg,"Herstellung von Druckerzeugnissen, Vervielfältigung von bespielten Ton-, Bild- und Datenträgern",100,0.275
+Friedrichshain-Kreuzberg,"Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden",20,0.055
+Friedrichshain-Kreuzberg,Herstellung von Gummi- und Kunststoffwaren,5,0.014
+Friedrichshain-Kreuzberg,"Herstellung von Holz-, Flecht-, Korb- und Korkwaren, ohne Möbel",7,0.019
+Friedrichshain-Kreuzberg,Herstellung von Kraftwagen und Kraftwagenteilen,9,0.025
+Friedrichshain-Kreuzberg,"Herstellung von Leder, Lederwaren und ähnlichen Produkten aus anderen Materialen",14,0.039
+Friedrichshain-Kreuzberg,Herstellung von Metallerzeugnissen,29,0.08
+Friedrichshain-Kreuzberg,Herstellung von Möbeln,18,0.05
+Friedrichshain-Kreuzberg,Herstellung von Nahrungs- und Futtermitteln,198,0.545
+Friedrichshain-Kreuzberg,"Herstellung von Papier, Pappe und Waren daraus",9,0.025
+Friedrichshain-Kreuzberg,Herstellung von Textilien,73,0.201
+Friedrichshain-Kreuzberg,Herstellung von chemischen Erzeugnissen,46,0.127
+Friedrichshain-Kreuzberg,Herstellung von elektrischen Ausrüstungen,21,0.058
+Friedrichshain-Kreuzberg,Herstellung von pharmazeutischen Erzeugnissen,4,0.011
+Friedrichshain-Kreuzberg,Herstellung von sonstigen Waren,226,0.622
+Friedrichshain-Kreuzberg,"Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen, Kinos, Tonstudios und Verlegen von Musik",1397,3.846
+Friedrichshain-Kreuzberg,Hochbau,97,0.267
+Friedrichshain-Kreuzberg,"Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen, ohne Sozialwesen und Sport",169,0.465
+Friedrichshain-Kreuzberg,Kohlenbergbau,1,0.003
+Friedrichshain-Kreuzberg,Kunstschaffende Tätigkeiten und Tätigkeiten in der darstellenden Kunst,1016,2.797
+Friedrichshain-Kreuzberg,Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr,201,0.553
+Friedrichshain-Kreuzberg,Landverkehr und Transport in Rohrfernleitungen,450,1.239
+Friedrichshain-Kreuzberg,"Landwirtschaft, Jagd und damit verbundene Tätigkeiten",27,0.074
+Friedrichshain-Kreuzberg,Luftfahrt,2,0.006
+Friedrichshain-Kreuzberg,Maschinenbau,18,0.05
+Friedrichshain-Kreuzberg,Metallerzeugung und -bearbeitung,1,0.003
+Friedrichshain-Kreuzberg,Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten,492,1.354
+Friedrichshain-Kreuzberg,"Post-, Kurier- und Expressdienste",286,0.787
+Friedrichshain-Kreuzberg,Private Haushalte mit Hauspersonal,2,0.006
+Friedrichshain-Kreuzberg,"Rechts- und Steuerberatung, Wirtschaftsprüfung",225,0.619
+Friedrichshain-Kreuzberg,"Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen",288,0.793
+Friedrichshain-Kreuzberg,Reparatur und Instandhaltung von Datenverarbeitungsgeräten und Gebrauchsgütern sowie von Kraftwagen und Krafträdern,72,0.198
+Friedrichshain-Kreuzberg,"Reparatur, Instandhaltung und Installation von Maschinen und Ausrüstungen",16,0.044
+Friedrichshain-Kreuzberg,"Rundfunkveranstalter, Nachrichtenagenturen und sonstige Verbreitung von Medieninhalten",506,1.393
+Friedrichshain-Kreuzberg,"Sammlung, Verwertung und Beseitigung von Abfällen",15,0.041
+Friedrichshain-Kreuzberg,Schifffahrt,6,0.017
+Friedrichshain-Kreuzberg,Sonstige wissenschaftliche und technische Tätigkeiten,1857,5.112
+Friedrichshain-Kreuzberg,Sonstiger Fahrzeugbau,12,0.033
+Friedrichshain-Kreuzberg,"Sozialwesen, ohne Heime",318,0.875
+Friedrichshain-Kreuzberg,"Spiel-, Wett- und Lotteriewesen",97,0.267
+Friedrichshain-Kreuzberg,Tabakverarbeitung,1,0.003
+Friedrichshain-Kreuzberg,Telekommunikation,34,0.094
+Friedrichshain-Kreuzberg,Tiefbau,23,0.063
+Friedrichshain-Kreuzberg,"Tätigkeiten von Architektur- und Ingenieurbüros, technische, physikalische und chemische Untersuchung",505,1.39
+Friedrichshain-Kreuzberg,Verlagswesen,278,0.765
+Friedrichshain-Kreuzberg,Vermietung und Leasing,286,0.787
+Friedrichshain-Kreuzberg,Vermittlung und Überlassung von Arbeitskräften,169,0.465
+Friedrichshain-Kreuzberg,"Versicherungen, Rückversicherungen und Pensionskassen, ohne Sozialversicherung",12,0.033
+Friedrichshain-Kreuzberg,"Verwaltung und Führung von Unternehmen und Betrieben, Unternehmensberatung",1677,4.616
+Friedrichshain-Kreuzberg,Veterinärwesen,2,0.006
+Friedrichshain-Kreuzberg,"Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe",836,2.301
+Friedrichshain-Kreuzberg,Wach- und Sicherheitsdienste sowie Detekteien,96,0.264
+Friedrichshain-Kreuzberg,Werbung und Marktforschung sowie Public-Relations-Beratung,1596,4.393
+Friedrichshain-Kreuzberg,,21,0.058
+Lichtenberg,Abwasserentsorgung,3,0.018
+Lichtenberg,Beherbergung,81,0.494
+Lichtenberg,"Bibliotheken, Archive, Museen, botanische und zoologische Gärten",7,0.043
+Lichtenberg,"Datenverarbeitung, Hosting und Erbringung sonstiger Informationsdienstleistungen",151,0.921
+Lichtenberg,Einzelhandel,2733,16.678
+Lichtenberg,Energieversorgung,48,0.293
+Lichtenberg,Erbringung von Dienstleistungen der Informationstechnologie,974,5.944
+Lichtenberg,"Erbringung von Dienstleistungen des Sports, der Unterhaltung und der Erholung",537,3.277
+Lichtenberg,Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden,1,0.006
+Lichtenberg,Erbringung von Finanzdienstleistungen,519,3.167
+Lichtenberg,Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen,626,3.82
+Lichtenberg,Erbringung von überwiegend persönlichen Dienstleistungen,784,4.784
+Lichtenberg,Erziehung und Unterricht,462,2.819
+Lichtenberg,Exterritoriale Organisationen und Körperschaften,2,0.012
+Lichtenberg,Forschung und Entwicklung,45,0.275
+Lichtenberg,Forstwirtschaft und Holzeinschlag,1,0.006
+Lichtenberg,Gastronomie,764,4.662
+Lichtenberg,"Gebäudebetreuung, Garten- und Landschaftsbau",472,2.88
+Lichtenberg,Gesundheitswesen,186,1.135
+Lichtenberg,Getränkeherstellung,13,0.079
+Lichtenberg,"Gewinnung von Steinen und Erden, sonstiger Bergbau",2,0.012
+Lichtenberg,Großhandel,870,5.309
+Lichtenberg,Grundstücks- und Wohnungswesen,595,3.631
+Lichtenberg,"Heime, ohne Erholungs- und Ferienheime",22,0.134
+Lichtenberg,Herstellung von Bekleidung,20,0.122
+Lichtenberg,"Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen",22,0.134
+Lichtenberg,"Herstellung von Druckerzeugnissen, Vervielfältigung von bespielten Ton-, Bild- und Datenträgern",31,0.189
+Lichtenberg,"Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden",5,0.031
+Lichtenberg,Herstellung von Gummi- und Kunststoffwaren,6,0.037
+Lichtenberg,"Herstellung von Holz-, Flecht-, Korb- und Korkwaren, ohne Möbel",11,0.067
+Lichtenberg,Herstellung von Kraftwagen und Kraftwagenteilen,3,0.018
+Lichtenberg,"Herstellung von Leder, Lederwaren und ähnlichen Produkten aus anderen Materialen",2,0.012
+Lichtenberg,Herstellung von Metallerzeugnissen,16,0.098
+Lichtenberg,Herstellung von Möbeln,3,0.018
+Lichtenberg,Herstellung von Nahrungs- und Futtermitteln,62,0.378
+Lichtenberg,"Herstellung von Papier, Pappe und Waren daraus",3,0.018
+Lichtenberg,Herstellung von Textilien,26,0.159
+Lichtenberg,Herstellung von Waren und Erbringung von Dienstleistungen durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt,1,0.006
+Lichtenberg,Herstellung von chemischen Erzeugnissen,8,0.049
+Lichtenberg,Herstellung von elektrischen Ausrüstungen,16,0.098
+Lichtenberg,Herstellung von pharmazeutischen Erzeugnissen,3,0.018
+Lichtenberg,Herstellung von sonstigen Waren,141,0.86
+Lichtenberg,"Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen, Kinos, Tonstudios und Verlegen von Musik",342,2.087
+Lichtenberg,Hochbau,62,0.378
+Lichtenberg,"Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen, ohne Sozialwesen und Sport",36,0.22
+Lichtenberg,Kunstschaffende Tätigkeiten und Tätigkeiten in der darstellenden Kunst,392,2.392
+Lichtenberg,Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr,160,0.976
+Lichtenberg,Landverkehr und Transport in Rohrfernleitungen,344,2.099
+Lichtenberg,"Landwirtschaft, Jagd und damit verbundene Tätigkeiten",18,0.11
+Lichtenberg,Luftfahrt,1,0.006
+Lichtenberg,Maschinenbau,14,0.085
+Lichtenberg,Metallerzeugung und -bearbeitung,4,0.024
+Lichtenberg,Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten,466,2.844
+Lichtenberg,"Post-, Kurier- und Expressdienste",173,1.056
+Lichtenberg,Private Haushalte mit Hauspersonal,4,0.024
+Lichtenberg,"Rechts- und Steuerberatung, Wirtschaftsprüfung",155,0.946
+Lichtenberg,"Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen",141,0.86
+Lichtenberg,Reparatur und Instandhaltung von Datenverarbeitungsgeräten und Gebrauchsgütern sowie von Kraftwagen und Krafträdern,106,0.647
+Lichtenberg,"Reparatur, Instandhaltung und Installation von Maschinen und Ausrüstungen",10,0.061
+Lichtenberg,"Rundfunkveranstalter, Nachrichtenagenturen und sonstige Verbreitung von Medieninhalten",253,1.544
+Lichtenberg,"Sammlung, Verwertung und Beseitigung von Abfällen",25,0.153
+Lichtenberg,Schifffahrt,4,0.024
+Lichtenberg,Sonstige wissenschaftliche und technische Tätigkeiten,522,3.185
+Lichtenberg,Sonstiger Fahrzeugbau,6,0.037
+Lichtenberg,"Sozialwesen, ohne Heime",242,1.477
+Lichtenberg,"Spiel-, Wett- und Lotteriewesen",74,0.452
+Lichtenberg,Tabakverarbeitung,1,0.006
+Lichtenberg,Telekommunikation,14,0.085
+Lichtenberg,Tiefbau,21,0.128
+Lichtenberg,"Tätigkeiten von Architektur- und Ingenieurbüros, technische, physikalische und chemische Untersuchung",187,1.141
+Lichtenberg,Verlagswesen,47,0.287
+Lichtenberg,Vermietung und Leasing,160,0.976
+Lichtenberg,Vermittlung und Überlassung von Arbeitskräften,90,0.549
+Lichtenberg,"Versicherungen, Rückversicherungen und Pensionskassen, ohne Sozialversicherung",1,0.006
+Lichtenberg,"Verwaltung und Führung von Unternehmen und Betrieben, Unternehmensberatung",520,3.173
+Lichtenberg,Veterinärwesen,1,0.006
+Lichtenberg,"Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe",806,4.919
+Lichtenberg,Wach- und Sicherheitsdienste sowie Detekteien,81,0.494
+Lichtenberg,Wasserversorgung,1,0.006
+Lichtenberg,Werbung und Marktforschung sowie Public-Relations-Beratung,620,3.783
+Lichtenberg,,6,0.037
+Marzahn-Hellersdorf,Abwasserentsorgung,7,0.048
+Marzahn-Hellersdorf,Beherbergung,79,0.538
+Marzahn-Hellersdorf,Beseitigung von Umweltverschmutzungen und sonstige Tätigkeiten in der Abfallbewirtschaftung,1,0.007
+Marzahn-Hellersdorf,"Bibliotheken, Archive, Museen, botanische und zoologische Gärten",1,0.007
+Marzahn-Hellersdorf,"Datenverarbeitung, Hosting und Erbringung sonstiger Informationsdienstleistungen",100,0.681
+Marzahn-Hellersdorf,Einzelhandel,2437,16.59
+Marzahn-Hellersdorf,Energieversorgung,95,0.647
+Marzahn-Hellersdorf,Erbringung von Dienstleistungen der Informationstechnologie,644,4.384
+Marzahn-Hellersdorf,"Erbringung von Dienstleistungen des Sports, der Unterhaltung und der Erholung",288,1.961
+Marzahn-Hellersdorf,Erbringung von Finanzdienstleistungen,385,2.621
+Marzahn-Hellersdorf,Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen,556,3.785
+Marzahn-Hellersdorf,Erbringung von überwiegend persönlichen Dienstleistungen,614,4.18
+Marzahn-Hellersdorf,Erziehung und Unterricht,310,2.11
+Marzahn-Hellersdorf,Exterritoriale Organisationen und Körperschaften,6,0.041
+Marzahn-Hellersdorf,Forschung und Entwicklung,41,0.279
+Marzahn-Hellersdorf,Forstwirtschaft und Holzeinschlag,1,0.007
+Marzahn-Hellersdorf,Gastronomie,626,4.261
+Marzahn-Hellersdorf,"Gebäudebetreuung, Garten- und Landschaftsbau",572,3.894
+Marzahn-Hellersdorf,Gesundheitswesen,200,1.361
+Marzahn-Hellersdorf,Getränkeherstellung,7,0.048
+Marzahn-Hellersdorf,Gewinnung von Erdöl und Erdgas,1,0.007
+Marzahn-Hellersdorf,Großhandel,766,5.214
+Marzahn-Hellersdorf,Grundstücks- und Wohnungswesen,635,4.323
+Marzahn-Hellersdorf,"Heime, ohne Erholungs- und Ferienheime",11,0.075
+Marzahn-Hellersdorf,Herstellung von Bekleidung,18,0.123
+Marzahn-Hellersdorf,"Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen",34,0.231
+Marzahn-Hellersdorf,"Herstellung von Druckerzeugnissen, Vervielfältigung von bespielten Ton-, Bild- und Datenträgern",23,0.157
+Marzahn-Hellersdorf,"Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden",13,0.088
+Marzahn-Hellersdorf,Herstellung von Gummi- und Kunststoffwaren,7,0.048
+Marzahn-Hellersdorf,"Herstellung von Holz-, Flecht-, Korb- und Korkwaren, ohne Möbel",3,0.02
+Marzahn-Hellersdorf,Herstellung von Kraftwagen und Kraftwagenteilen,8,0.054
+Marzahn-Hellersdorf,"Herstellung von Leder, Lederwaren und ähnlichen Produkten aus anderen Materialen",2,0.014
+Marzahn-Hellersdorf,Herstellung von Metallerzeugnissen,21,0.143
+Marzahn-Hellersdorf,Herstellung von Möbeln,2,0.014
+Marzahn-Hellersdorf,Herstellung von Nahrungs- und Futtermitteln,41,0.279
+Marzahn-Hellersdorf,"Herstellung von Papier, Pappe und Waren daraus",2,0.014
+Marzahn-Hellersdorf,Herstellung von Textilien,32,0.218
+Marzahn-Hellersdorf,Herstellung von chemischen Erzeugnissen,14,0.095
+Marzahn-Hellersdorf,Herstellung von elektrischen Ausrüstungen,11,0.075
+Marzahn-Hellersdorf,Herstellung von pharmazeutischen Erzeugnissen,6,0.041
+Marzahn-Hellersdorf,Herstellung von sonstigen Waren,128,0.871
+Marzahn-Hellersdorf,"Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen, Kinos, Tonstudios und Verlegen von Musik",238,1.62
+Marzahn-Hellersdorf,Hochbau,93,0.633
+Marzahn-Hellersdorf,"Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen, ohne Sozialwesen und Sport",34,0.231
+Marzahn-Hellersdorf,Kunstschaffende Tätigkeiten und Tätigkeiten in der darstellenden Kunst,179,1.219
+Marzahn-Hellersdorf,Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr,169,1.15
+Marzahn-Hellersdorf,Landverkehr und Transport in Rohrfernleitungen,431,2.934
+Marzahn-Hellersdorf,"Landwirtschaft, Jagd und damit verbundene Tätigkeiten",15,0.102
+Marzahn-Hellersdorf,Maschinenbau,24,0.163
+Marzahn-Hellersdorf,Metallerzeugung und -bearbeitung,3,0.02
+Marzahn-Hellersdorf,Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten,558,3.799
+Marzahn-Hellersdorf,"Post-, Kurier- und Expressdienste",163,1.11
+Marzahn-Hellersdorf,Private Haushalte mit Hauspersonal,2,0.014
+Marzahn-Hellersdorf,"Rechts- und Steuerberatung, Wirtschaftsprüfung",163,1.11
+Marzahn-Hellersdorf,"Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen",80,0.545
+Marzahn-Hellersdorf,Reparatur und Instandhaltung von Datenverarbeitungsgeräten und Gebrauchsgütern sowie von Kraftwagen und Krafträdern,123,0.837
+Marzahn-Hellersdorf,"Reparatur, Instandhaltung und Installation von Maschinen und Ausrüstungen",12,0.082
+Marzahn-Hellersdorf,"Rundfunkveranstalter, Nachrichtenagenturen und sonstige Verbreitung von Medieninhalten",189,1.287
+Marzahn-Hellersdorf,"Sammlung, Verwertung und Beseitigung von Abfällen",27,0.184
+Marzahn-Hellersdorf,Schifffahrt,5,0.034
+Marzahn-Hellersdorf,Sonstige wissenschaftliche und technische Tätigkeiten,279,1.899
+Marzahn-Hellersdorf,Sonstiger Fahrzeugbau,6,0.041
+Marzahn-Hellersdorf,"Sozialwesen, ohne Heime",192,1.307
+Marzahn-Hellersdorf,"Spiel-, Wett- und Lotteriewesen",96,0.654
+Marzahn-Hellersdorf,Tabakverarbeitung,1,0.007
+Marzahn-Hellersdorf,Telekommunikation,11,0.075
+Marzahn-Hellersdorf,Tiefbau,35,0.238
+Marzahn-Hellersdorf,"Tätigkeiten von Architektur- und Ingenieurbüros, technische, physikalische und chemische Untersuchung",195,1.327
+Marzahn-Hellersdorf,Verlagswesen,40,0.272
+Marzahn-Hellersdorf,Vermietung und Leasing,150,1.021
+Marzahn-Hellersdorf,Vermittlung und Überlassung von Arbeitskräften,67,0.456
+Marzahn-Hellersdorf,"Verwaltung und Führung von Unternehmen und Betrieben, Unternehmensberatung",401,2.73
+Marzahn-Hellersdorf,Veterinärwesen,3,0.02
+Marzahn-Hellersdorf,"Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe",1452,9.884
+Marzahn-Hellersdorf,Wach- und Sicherheitsdienste sowie Detekteien,84,0.572
+Marzahn-Hellersdorf,Werbung und Marktforschung sowie Public-Relations-Beratung,418,2.845
+Marzahn-Hellersdorf,,4,0.027
+Mitte,Abwasserentsorgung,6,0.01
+Mitte,Beherbergung,507,0.862
+Mitte,Beseitigung von Umweltverschmutzungen und sonstige Tätigkeiten in der Abfallbewirtschaftung,4,0.007
+Mitte,"Bibliotheken, Archive, Museen, botanische und zoologische Gärten",138,0.235
+Mitte,"Datenverarbeitung, Hosting und Erbringung sonstiger Informationsdienstleistungen",824,1.401
+Mitte,Einzelhandel,7026,11.946
+Mitte,Energieversorgung,629,1.069
+Mitte,Erbringung von Dienstleistungen der Informationstechnologie,4123,7.01
+Mitte,"Erbringung von Dienstleistungen des Sports, der Unterhaltung und der Erholung",1281,2.178
+Mitte,Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden,1,0.002
+Mitte,Erbringung von Finanzdienstleistungen,5746,9.769
+Mitte,Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen,1614,2.744
+Mitte,Erbringung von überwiegend persönlichen Dienstleistungen,1844,3.135
+Mitte,Erziehung und Unterricht,1249,2.124
+Mitte,Exterritoriale Organisationen und Körperschaften,6,0.01
+Mitte,Fischerei und Aquakultur,1,0.002
+Mitte,Forschung und Entwicklung,407,0.692
+Mitte,Gastronomie,3933,6.687
+Mitte,"Gebäudebetreuung, Garten- und Landschaftsbau",1043,1.773
+Mitte,Gesundheitswesen,639,1.086
+Mitte,Getränkeherstellung,45,0.077
+Mitte,Gewinnung von Erdöl und Erdgas,1,0.002
+Mitte,"Gewinnung von Steinen und Erden, sonstiger Bergbau",3,0.005
+Mitte,Großhandel,2263,3.848
+Mitte,Grundstücks- und Wohnungswesen,4174,7.097
+Mitte,"Heime, ohne Erholungs- und Ferienheime",104,0.177
+Mitte,Herstellung von Bekleidung,110,0.187
+Mitte,"Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen",129,0.219
+Mitte,"Herstellung von Druckerzeugnissen, Vervielfältigung von bespielten Ton-, Bild- und Datenträgern",86,0.146
+Mitte,"Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden",19,0.032
+Mitte,Herstellung von Gummi- und Kunststoffwaren,15,0.026
+Mitte,"Herstellung von Holz-, Flecht-, Korb- und Korkwaren, ohne Möbel",12,0.02
+Mitte,Herstellung von Kraftwagen und Kraftwagenteilen,16,0.027
+Mitte,"Herstellung von Leder, Lederwaren und ähnlichen Produkten aus anderen Materialen",11,0.019
+Mitte,Herstellung von Metallerzeugnissen,34,0.058
+Mitte,Herstellung von Möbeln,21,0.036
+Mitte,Herstellung von Nahrungs- und Futtermitteln,293,0.498
+Mitte,"Herstellung von Papier, Pappe und Waren daraus",17,0.029
+Mitte,Herstellung von Textilien,67,0.114
+Mitte,Herstellung von Waren und Erbringung von Dienstleistungen durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt,1,0.002
+Mitte,Herstellung von chemischen Erzeugnissen,77,0.131
+Mitte,Herstellung von elektrischen Ausrüstungen,80,0.136
+Mitte,Herstellung von pharmazeutischen Erzeugnissen,30,0.051
+Mitte,Herstellung von sonstigen Waren,299,0.508
+Mitte,"Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen, Kinos, Tonstudios und Verlegen von Musik",1329,2.26
+Mitte,Hochbau,211,0.359
+Mitte,"Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen, ohne Sozialwesen und Sport",547,0.93
+Mitte,Kohlenbergbau,1,0.002
+Mitte,Kokerei und Mineralölverarbeitung,4,0.007
+Mitte,Kunstschaffende Tätigkeiten und Tätigkeiten in der darstellenden Kunst,827,1.406
+Mitte,Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr,424,0.721
+Mitte,Landverkehr und Transport in Rohrfernleitungen,787,1.338
+Mitte,"Landwirtschaft, Jagd und damit verbundene Tätigkeiten",34,0.058
+Mitte,Luftfahrt,13,0.022
+Mitte,Maschinenbau,59,0.1
+Mitte,Metallerzeugung und -bearbeitung,2,0.003
+Mitte,Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten,1015,1.726
+Mitte,"Post-, Kurier- und Expressdienste",481,0.818
+Mitte,"Rechts- und Steuerberatung, Wirtschaftsprüfung",733,1.246
+Mitte,"Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen",416,0.707
+Mitte,Reparatur und Instandhaltung von Datenverarbeitungsgeräten und Gebrauchsgütern sowie von Kraftwagen und Krafträdern,160,0.272
+Mitte,"Reparatur, Instandhaltung und Installation von Maschinen und Ausrüstungen",27,0.046
+Mitte,"Rundfunkveranstalter, Nachrichtenagenturen und sonstige Verbreitung von Medieninhalten",688,1.17
+Mitte,"Sammlung, Verwertung und Beseitigung von Abfällen",41,0.07
+Mitte,Schifffahrt,19,0.032
+Mitte,Sonstige wissenschaftliche und technische Tätigkeiten,1911,3.249
+Mitte,Sonstiger Fahrzeugbau,17,0.029
+Mitte,"Sozialwesen, ohne Heime",451,0.767
+Mitte,"Spiel-, Wett- und Lotteriewesen",211,0.359
+Mitte,Telekommunikation,97,0.165
+Mitte,Tiefbau,44,0.075
+Mitte,"Tätigkeiten von Architektur- und Ingenieurbüros, technische, physikalische und chemische Untersuchung",833,1.416
+Mitte,Verlagswesen,411,0.699
+Mitte,Vermietung und Leasing,409,0.695
+Mitte,Vermittlung und Überlassung von Arbeitskräften,400,0.68
+Mitte,"Versicherungen, Rückversicherungen und Pensionskassen, ohne Sozialversicherung",26,0.044
+Mitte,"Verwaltung und Führung von Unternehmen und Betrieben, Unternehmensberatung",3232,5.495
+Mitte,Veterinärwesen,62,0.105
+Mitte,"Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe",1754,2.982
+Mitte,Wach- und Sicherheitsdienste sowie Detekteien,231,0.393
+Mitte,Wasserversorgung,5,0.009
+Mitte,Werbung und Marktforschung sowie Public-Relations-Beratung,1943,3.304
+Mitte,"Öffentliche Verwaltung, Verteidigung, Sozialversicherung",2,0.003
+Mitte,,31,0.053
+Neukölln,Abwasserentsorgung,4,0.015
+Neukölln,Beherbergung,122,0.459
+Neukölln,Beseitigung von Umweltverschmutzungen und sonstige Tätigkeiten in der Abfallbewirtschaftung,3,0.011
+Neukölln,"Bibliotheken, Archive, Museen, botanische und zoologische Gärten",20,0.075
+Neukölln,"Datenverarbeitung, Hosting und Erbringung sonstiger Informationsdienstleistungen",194,0.73
+Neukölln,Einzelhandel,4463,16.803
+Neukölln,Energieversorgung,82,0.309
+Neukölln,Erbringung von Dienstleistungen der Informationstechnologie,1105,4.16
+Neukölln,"Erbringung von Dienstleistungen des Sports, der Unterhaltung und der Erholung",802,3.019
+Neukölln,Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden,1,0.004
+Neukölln,Erbringung von Finanzdienstleistungen,984,3.705
+Neukölln,Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen,884,3.328
+Neukölln,Erbringung von überwiegend persönlichen Dienstleistungen,1396,5.256
+Neukölln,Erziehung und Unterricht,668,2.515
+Neukölln,Exterritoriale Organisationen und Körperschaften,3,0.011
+Neukölln,Forschung und Entwicklung,37,0.139
+Neukölln,Forstwirtschaft und Holzeinschlag,1,0.004
+Neukölln,Gastronomie,2090,7.869
+Neukölln,"Gebäudebetreuung, Garten- und Landschaftsbau",865,3.257
+Neukölln,Gesundheitswesen,223,0.84
+Neukölln,Getränkeherstellung,17,0.064
+Neukölln,"Gewinnung von Steinen und Erden, sonstiger Bergbau",2,0.008
+Neukölln,Großhandel,1065,4.01
+Neukölln,Grundstücks- und Wohnungswesen,1005,3.784
+Neukölln,"Heime, ohne Erholungs- und Ferienheime",15,0.056
+Neukölln,Herstellung von Bekleidung,52,0.196
+Neukölln,"Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen",29,0.109
+Neukölln,"Herstellung von Druckerzeugnissen, Vervielfältigung von bespielten Ton-, Bild- und Datenträgern",49,0.184
+Neukölln,"Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden",16,0.06
+Neukölln,Herstellung von Gummi- und Kunststoffwaren,10,0.038
+Neukölln,"Herstellung von Holz-, Flecht-, Korb- und Korkwaren, ohne Möbel",10,0.038
+Neukölln,Herstellung von Kraftwagen und Kraftwagenteilen,4,0.015
+Neukölln,"Herstellung von Leder, Lederwaren und ähnlichen Produkten aus anderen Materialen",4,0.015
+Neukölln,Herstellung von Metallerzeugnissen,31,0.117
+Neukölln,Herstellung von Möbeln,13,0.049
+Neukölln,Herstellung von Nahrungs- und Futtermitteln,158,0.595
+Neukölln,"Herstellung von Papier, Pappe und Waren daraus",14,0.053
+Neukölln,Herstellung von Textilien,41,0.154
+Neukölln,Herstellung von chemischen Erzeugnissen,28,0.105
+Neukölln,Herstellung von elektrischen Ausrüstungen,17,0.064
+Neukölln,Herstellung von pharmazeutischen Erzeugnissen,5,0.019
+Neukölln,Herstellung von sonstigen Waren,170,0.64
+Neukölln,"Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen, Kinos, Tonstudios und Verlegen von Musik",724,2.726
+Neukölln,Hochbau,136,0.512
+Neukölln,"Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen, ohne Sozialwesen und Sport",69,0.26
+Neukölln,Kunstschaffende Tätigkeiten und Tätigkeiten in der darstellenden Kunst,667,2.511
+Neukölln,Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr,259,0.975
+Neukölln,Landverkehr und Transport in Rohrfernleitungen,653,2.458
+Neukölln,"Landwirtschaft, Jagd und damit verbundene Tätigkeiten",23,0.087
+Neukölln,Luftfahrt,2,0.008
+Neukölln,Maschinenbau,22,0.083
+Neukölln,Metallerzeugung und -bearbeitung,7,0.026
+Neukölln,Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten,382,1.438
+Neukölln,"Post-, Kurier- und Expressdienste",362,1.363
+Neukölln,Private Haushalte mit Hauspersonal,1,0.004
+Neukölln,"Rechts- und Steuerberatung, Wirtschaftsprüfung",148,0.557
+Neukölln,"Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen",204,0.768
+Neukölln,Reparatur und Instandhaltung von Datenverarbeitungsgeräten und Gebrauchsgütern sowie von Kraftwagen und Krafträdern,160,0.602
+Neukölln,"Reparatur, Instandhaltung und Installation von Maschinen und Ausrüstungen",12,0.045
+Neukölln,"Rundfunkveranstalter, Nachrichtenagenturen und sonstige Verbreitung von Medieninhalten",282,1.062
+Neukölln,"Sammlung, Verwertung und Beseitigung von Abfällen",24,0.09
+Neukölln,Schifffahrt,4,0.015
+Neukölln,Sonstige wissenschaftliche und technische Tätigkeiten,1054,3.968
+Neukölln,Sonstiger Fahrzeugbau,5,0.019
+Neukölln,"Sozialwesen, ohne Heime",401,1.51
+Neukölln,"Spiel-, Wett- und Lotteriewesen",205,0.772
+Neukölln,Tabakverarbeitung,3,0.011
+Neukölln,Telekommunikation,35,0.132
+Neukölln,Tiefbau,50,0.188
+Neukölln,"Tätigkeiten von Architektur- und Ingenieurbüros, technische, physikalische und chemische Untersuchung",204,0.768
+Neukölln,Verlagswesen,89,0.335
+Neukölln,Vermietung und Leasing,235,0.885
+Neukölln,Vermittlung und Überlassung von Arbeitskräften,89,0.335
+Neukölln,"Versicherungen, Rückversicherungen und Pensionskassen, ohne Sozialversicherung",1,0.004
+Neukölln,"Verwaltung und Führung von Unternehmen und Betrieben, Unternehmensberatung",839,3.159
+Neukölln,Veterinärwesen,8,0.03
+Neukölln,"Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe",1356,5.105
+Neukölln,Wach- und Sicherheitsdienste sowie Detekteien,157,0.591
+Neukölln,Wasserversorgung,1,0.004
+Neukölln,Werbung und Marktforschung sowie Public-Relations-Beratung,975,3.671
+Neukölln,,11,0.041
+Pankow,Abwasserentsorgung,1,0.003
+Pankow,Beherbergung,239,0.611
+Pankow,Beseitigung von Umweltverschmutzungen und sonstige Tätigkeiten in der Abfallbewirtschaftung,5,0.013
+Pankow,"Bibliotheken, Archive, Museen, botanische und zoologische Gärten",39,0.1
+Pankow,"Datenverarbeitung, Hosting und Erbringung sonstiger Informationsdienstleistungen",485,1.24
+Pankow,Einzelhandel,5386,13.773
+Pankow,Energieversorgung,265,0.678
+Pankow,Erbringung von Dienstleistungen der Informationstechnologie,2685,6.866
+Pankow,"Erbringung von Dienstleistungen des Sports, der Unterhaltung und der Erholung",1207,3.086
+Pankow,Erbringung von Finanzdienstleistungen,2865,7.326
+Pankow,Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen,1212,3.099
+Pankow,Erbringung von überwiegend persönlichen Dienstleistungen,1770,4.526
+Pankow,Erziehung und Unterricht,1193,3.051
+Pankow,Exterritoriale Organisationen und Körperschaften,1,0.003
+Pankow,Forschung und Entwicklung,194,0.496
+Pankow,Forstwirtschaft und Holzeinschlag,4,0.01
+Pankow,Gastronomie,2057,5.26
+Pankow,"Gebäudebetreuung, Garten- und Landschaftsbau",851,2.176
+Pankow,Gesundheitswesen,371,0.949
+Pankow,Getränkeherstellung,30,0.077
+Pankow,Großhandel,1318,3.37
+Pankow,Grundstücks- und Wohnungswesen,2005,5.127
+Pankow,"Heime, ohne Erholungs- und Ferienheime",37,0.095
+Pankow,Herstellung von Bekleidung,104,0.266
+Pankow,"Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen",51,0.13
+Pankow,"Herstellung von Druckerzeugnissen, Vervielfältigung von bespielten Ton-, Bild- und Datenträgern",69,0.176
+Pankow,"Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden",34,0.087
+Pankow,Herstellung von Gummi- und Kunststoffwaren,10,0.026
+Pankow,"Herstellung von Holz-, Flecht-, Korb- und Korkwaren, ohne Möbel",7,0.018
+Pankow,Herstellung von Kraftwagen und Kraftwagenteilen,7,0.018
+Pankow,"Herstellung von Leder, Lederwaren und ähnlichen Produkten aus anderen Materialen",7,0.018
+Pankow,Herstellung von Metallerzeugnissen,22,0.056
+Pankow,Herstellung von Möbeln,14,0.036
+Pankow,Herstellung von Nahrungs- und Futtermitteln,194,0.496
+Pankow,"Herstellung von Papier, Pappe und Waren daraus",20,0.051
+Pankow,Herstellung von Textilien,82,0.21
+Pankow,Herstellung von chemischen Erzeugnissen,43,0.11
+Pankow,Herstellung von elektrischen Ausrüstungen,22,0.056
+Pankow,Herstellung von pharmazeutischen Erzeugnissen,5,0.013
+Pankow,Herstellung von sonstigen Waren,353,0.903
+Pankow,"Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen, Kinos, Tonstudios und Verlegen von Musik",1241,3.173
+Pankow,Hochbau,114,0.292
+Pankow,"Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen, ohne Sozialwesen und Sport",99,0.253
+Pankow,Kunstschaffende Tätigkeiten und Tätigkeiten in der darstellenden Kunst,792,2.025
+Pankow,Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr,229,0.586
+Pankow,Landverkehr und Transport in Rohrfernleitungen,428,1.094
+Pankow,"Landwirtschaft, Jagd und damit verbundene Tätigkeiten",40,0.102
+Pankow,Luftfahrt,5,0.013
+Pankow,Maschinenbau,32,0.082
+Pankow,Metallerzeugung und -bearbeitung,7,0.018
+Pankow,Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten,773,1.977
+Pankow,"Post-, Kurier- und Expressdienste",291,0.744
+Pankow,"Rechts- und Steuerberatung, Wirtschaftsprüfung",273,0.698
+Pankow,"Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen",284,0.726
+Pankow,Reparatur und Instandhaltung von Datenverarbeitungsgeräten und Gebrauchsgütern sowie von Kraftwagen und Krafträdern,160,0.409
+Pankow,"Reparatur, Instandhaltung und Installation von Maschinen und Ausrüstungen",27,0.069
+Pankow,"Rundfunkveranstalter, Nachrichtenagenturen und sonstige Verbreitung von Medieninhalten",555,1.419
+Pankow,"Sammlung, Verwertung und Beseitigung von Abfällen",40,0.102
+Pankow,Schifffahrt,5,0.013
+Pankow,Sonstige wissenschaftliche und technische Tätigkeiten,1671,4.273
+Pankow,Sonstiger Fahrzeugbau,13,0.033
+Pankow,"Sozialwesen, ohne Heime",389,0.995
+Pankow,"Spiel-, Wett- und Lotteriewesen",70,0.179
+Pankow,Telekommunikation,39,0.1
+Pankow,Tiefbau,35,0.09
+Pankow,"Tätigkeiten von Architektur- und Ingenieurbüros, technische, physikalische und chemische Untersuchung",522,1.335
+Pankow,Verlagswesen,233,0.596
+Pankow,Vermietung und Leasing,334,0.854
+Pankow,Vermittlung und Überlassung von Arbeitskräften,212,0.542
+Pankow,"Versicherungen, Rückversicherungen und Pensionskassen, ohne Sozialversicherung",6,0.015
+Pankow,"Verwaltung und Führung von Unternehmen und Betrieben, Unternehmensberatung",2048,5.237
+Pankow,Veterinärwesen,5,0.013
+Pankow,"Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe",1105,2.826
+Pankow,Wach- und Sicherheitsdienste sowie Detekteien,94,0.24
+Pankow,Werbung und Marktforschung sowie Public-Relations-Beratung,1647,4.212
+Pankow,,24,0.061
+Reinickendorf,Abwasserentsorgung,4,0.021
+Reinickendorf,Beherbergung,124,0.647
+Reinickendorf,Beseitigung von Umweltverschmutzungen und sonstige Tätigkeiten in der Abfallbewirtschaftung,8,0.042
+Reinickendorf,"Bibliotheken, Archive, Museen, botanische und zoologische Gärten",6,0.031
+Reinickendorf,"Datenverarbeitung, Hosting und Erbringung sonstiger Informationsdienstleistungen",136,0.71
+Reinickendorf,Einzelhandel,3088,16.12
+Reinickendorf,Energieversorgung,77,0.402
+Reinickendorf,Erbringung von Dienstleistungen der Informationstechnologie,808,4.218
+Reinickendorf,"Erbringung von Dienstleistungen des Sports, der Unterhaltung und der Erholung",310,1.618
+Reinickendorf,Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden,1,0.005
+Reinickendorf,Erbringung von Finanzdienstleistungen,838,4.375
+Reinickendorf,Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen,715,3.733
+Reinickendorf,Erbringung von überwiegend persönlichen Dienstleistungen,591,3.085
+Reinickendorf,Erziehung und Unterricht,427,2.229
+Reinickendorf,Forschung und Entwicklung,53,0.277
+Reinickendorf,Gastronomie,982,5.126
+Reinickendorf,"Gebäudebetreuung, Garten- und Landschaftsbau",762,3.978
+Reinickendorf,Gesundheitswesen,225,1.175
+Reinickendorf,Getränkeherstellung,8,0.042
+Reinickendorf,"Gewinnung von Steinen und Erden, sonstiger Bergbau",2,0.01
+Reinickendorf,Großhandel,982,5.126
+Reinickendorf,Grundstücks- und Wohnungswesen,1810,9.449
+Reinickendorf,"Heime, ohne Erholungs- und Ferienheime",30,0.157
+Reinickendorf,Herstellung von Bekleidung,29,0.151
+Reinickendorf,"Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen",43,0.224
+Reinickendorf,"Herstellung von Druckerzeugnissen, Vervielfältigung von bespielten Ton-, Bild- und Datenträgern",36,0.188
+Reinickendorf,"Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden",18,0.094
+Reinickendorf,Herstellung von Gummi- und Kunststoffwaren,13,0.068
+Reinickendorf,"Herstellung von Holz-, Flecht-, Korb- und Korkwaren, ohne Möbel",9,0.047
+Reinickendorf,Herstellung von Kraftwagen und Kraftwagenteilen,3,0.016
+Reinickendorf,"Herstellung von Leder, Lederwaren und ähnlichen Produkten aus anderen Materialen",5,0.026
+Reinickendorf,Herstellung von Metallerzeugnissen,35,0.183
+Reinickendorf,Herstellung von Möbeln,5,0.026
+Reinickendorf,Herstellung von Nahrungs- und Futtermitteln,109,0.569
+Reinickendorf,"Herstellung von Papier, Pappe und Waren daraus",4,0.021
+Reinickendorf,Herstellung von Textilien,33,0.172
+Reinickendorf,Herstellung von chemischen Erzeugnissen,26,0.136
+Reinickendorf,Herstellung von elektrischen Ausrüstungen,17,0.089
+Reinickendorf,Herstellung von pharmazeutischen Erzeugnissen,10,0.052
+Reinickendorf,Herstellung von sonstigen Waren,132,0.689
+Reinickendorf,"Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen, Kinos, Tonstudios und Verlegen von Musik",230,1.201
+Reinickendorf,Hochbau,120,0.626
+Reinickendorf,"Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen, ohne Sozialwesen und Sport",38,0.198
+Reinickendorf,Kokerei und Mineralölverarbeitung,1,0.005
+Reinickendorf,Kunstschaffende Tätigkeiten und Tätigkeiten in der darstellenden Kunst,165,0.861
+Reinickendorf,Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr,239,1.248
+Reinickendorf,Landverkehr und Transport in Rohrfernleitungen,583,3.043
+Reinickendorf,"Landwirtschaft, Jagd und damit verbundene Tätigkeiten",17,0.089
+Reinickendorf,Luftfahrt,4,0.021
+Reinickendorf,Maschinenbau,63,0.329
+Reinickendorf,Metallerzeugung und -bearbeitung,9,0.047
+Reinickendorf,Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten,489,2.553
+Reinickendorf,"Post-, Kurier- und Expressdienste",224,1.169
+Reinickendorf,"Rechts- und Steuerberatung, Wirtschaftsprüfung",191,0.997
+Reinickendorf,"Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen",119,0.621
+Reinickendorf,Reparatur und Instandhaltung von Datenverarbeitungsgeräten und Gebrauchsgütern sowie von Kraftwagen und Krafträdern,152,0.793
+Reinickendorf,"Reparatur, Instandhaltung und Installation von Maschinen und Ausrüstungen",20,0.104
+Reinickendorf,"Rundfunkveranstalter, Nachrichtenagenturen und sonstige Verbreitung von Medieninhalten",178,0.929
+Reinickendorf,"Sammlung, Verwertung und Beseitigung von Abfällen",30,0.157
+Reinickendorf,Schifffahrt,2,0.01
+Reinickendorf,Sonstige wissenschaftliche und technische Tätigkeiten,381,1.989
+Reinickendorf,Sonstiger Fahrzeugbau,14,0.073
+Reinickendorf,"Sozialwesen, ohne Heime",235,1.227
+Reinickendorf,"Spiel-, Wett- und Lotteriewesen",92,0.48
+Reinickendorf,Telekommunikation,28,0.146
+Reinickendorf,Tiefbau,52,0.271
+Reinickendorf,"Tätigkeiten von Architektur- und Ingenieurbüros, technische, physikalische und chemische Untersuchung",263,1.373
+Reinickendorf,Verlagswesen,63,0.329
+Reinickendorf,Vermietung und Leasing,186,0.971
+Reinickendorf,Vermittlung und Überlassung von Arbeitskräften,96,0.501
+Reinickendorf,"Versicherungen, Rückversicherungen und Pensionskassen, ohne Sozialversicherung",4,0.021
+Reinickendorf,"Verwaltung und Führung von Unternehmen und Betrieben, Unternehmensberatung",691,3.607
+Reinickendorf,Veterinärwesen,4,0.021
+Reinickendorf,"Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe",980,5.116
+Reinickendorf,Wach- und Sicherheitsdienste sowie Detekteien,111,0.579
+Reinickendorf,Werbung und Marktforschung sowie Public-Relations-Beratung,559,2.918
+Reinickendorf,"Öffentliche Verwaltung, Verteidigung, Sozialversicherung",1,0.005
+Reinickendorf,,8,0.042
+Spandau,Abwasserentsorgung,4,0.025
+Spandau,Beherbergung,90,0.57
+Spandau,Beseitigung von Umweltverschmutzungen und sonstige Tätigkeiten in der Abfallbewirtschaftung,4,0.025
+Spandau,"Bibliotheken, Archive, Museen, botanische und zoologische Gärten",6,0.038
+Spandau,"Datenverarbeitung, Hosting und Erbringung sonstiger Informationsdienstleistungen",112,0.709
+Spandau,Einzelhandel,3031,19.194
+Spandau,Energieversorgung,64,0.405
+Spandau,Erbringung von Dienstleistungen der Informationstechnologie,679,4.3
+Spandau,"Erbringung von Dienstleistungen des Sports, der Unterhaltung und der Erholung",273,1.729
+Spandau,Erbringung von Finanzdienstleistungen,447,2.831
+Spandau,Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen,579,3.667
+Spandau,Erbringung von überwiegend persönlichen Dienstleistungen,546,3.458
+Spandau,Erziehung und Unterricht,335,2.121
+Spandau,Exterritoriale Organisationen und Körperschaften,3,0.019
+Spandau,Fischerei und Aquakultur,2,0.013
+Spandau,Forschung und Entwicklung,41,0.26
+Spandau,Forstwirtschaft und Holzeinschlag,1,0.006
+Spandau,Gastronomie,816,5.168
+Spandau,"Gebäudebetreuung, Garten- und Landschaftsbau",767,4.857
+Spandau,Gesundheitswesen,179,1.134
+Spandau,Getränkeherstellung,12,0.076
+Spandau,"Gewinnung von Steinen und Erden, sonstiger Bergbau",6,0.038
+Spandau,Großhandel,876,5.547
+Spandau,Grundstücks- und Wohnungswesen,820,5.193
+Spandau,"Heime, ohne Erholungs- und Ferienheime",25,0.158
+Spandau,Herstellung von Bekleidung,16,0.101
+Spandau,"Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen",38,0.241
+Spandau,"Herstellung von Druckerzeugnissen, Vervielfältigung von bespielten Ton-, Bild- und Datenträgern",26,0.165
+Spandau,"Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden",24,0.152
+Spandau,Herstellung von Gummi- und Kunststoffwaren,7,0.044
+Spandau,"Herstellung von Holz-, Flecht-, Korb- und Korkwaren, ohne Möbel",6,0.038
+Spandau,Herstellung von Kraftwagen und Kraftwagenteilen,6,0.038
+Spandau,Herstellung von Metallerzeugnissen,29,0.184
+Spandau,Herstellung von Möbeln,1,0.006
+Spandau,Herstellung von Nahrungs- und Futtermitteln,65,0.412
+Spandau,"Herstellung von Papier, Pappe und Waren daraus",3,0.019
+Spandau,Herstellung von Textilien,30,0.19
+Spandau,Herstellung von chemischen Erzeugnissen,19,0.12
+Spandau,Herstellung von elektrischen Ausrüstungen,43,0.272
+Spandau,Herstellung von pharmazeutischen Erzeugnissen,2,0.013
+Spandau,Herstellung von sonstigen Waren,119,0.754
+Spandau,"Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen, Kinos, Tonstudios und Verlegen von Musik",243,1.539
+Spandau,Hochbau,86,0.545
+Spandau,"Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen, ohne Sozialwesen und Sport",32,0.203
+Spandau,Kunstschaffende Tätigkeiten und Tätigkeiten in der darstellenden Kunst,144,0.912
+Spandau,Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr,224,1.419
+Spandau,Landverkehr und Transport in Rohrfernleitungen,515,3.261
+Spandau,"Landwirtschaft, Jagd und damit verbundene Tätigkeiten",17,0.108
+Spandau,Luftfahrt,1,0.006
+Spandau,Maschinenbau,33,0.209
+Spandau,Metallerzeugung und -bearbeitung,4,0.025
+Spandau,Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten,338,2.14
+Spandau,"Post-, Kurier- und Expressdienste",230,1.457
+Spandau,Private Haushalte mit Hauspersonal,1,0.006
+Spandau,"Rechts- und Steuerberatung, Wirtschaftsprüfung",127,0.804
+Spandau,"Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen",90,0.57
+Spandau,Reparatur und Instandhaltung von Datenverarbeitungsgeräten und Gebrauchsgütern sowie von Kraftwagen und Krafträdern,145,0.918
+Spandau,"Reparatur, Instandhaltung und Installation von Maschinen und Ausrüstungen",9,0.057
+Spandau,"Rundfunkveranstalter, Nachrichtenagenturen und sonstige Verbreitung von Medieninhalten",190,1.203
+Spandau,"Sammlung, Verwertung und Beseitigung von Abfällen",22,0.139
+Spandau,Schifffahrt,17,0.108
+Spandau,Sonstige wissenschaftliche und technische Tätigkeiten,340,2.153
+Spandau,Sonstiger Fahrzeugbau,8,0.051
+Spandau,"Sozialwesen, ohne Heime",197,1.248
+Spandau,"Spiel-, Wett- und Lotteriewesen",85,0.538
+Spandau,Telekommunikation,22,0.139
+Spandau,Tiefbau,39,0.247
+Spandau,"Tätigkeiten von Architektur- und Ingenieurbüros, technische, physikalische und chemische Untersuchung",184,1.165
+Spandau,Verlagswesen,47,0.298
+Spandau,Vermietung und Leasing,191,1.21
+Spandau,Vermittlung und Überlassung von Arbeitskräften,77,0.488
+Spandau,"Versicherungen, Rückversicherungen und Pensionskassen, ohne Sozialversicherung",3,0.019
+Spandau,"Verwaltung und Führung von Unternehmen und Betrieben, Unternehmensberatung",453,2.869
+Spandau,Veterinärwesen,2,0.013
+Spandau,"Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe",860,5.446
+Spandau,Wach- und Sicherheitsdienste sowie Detekteien,86,0.545
+Spandau,Werbung und Marktforschung sowie Public-Relations-Beratung,568,3.597
+Spandau,,9,0.057
+Steglitz-Zehlendorf,Abwasserentsorgung,3,0.012
+Steglitz-Zehlendorf,Beherbergung,110,0.428
+Steglitz-Zehlendorf,Beseitigung von Umweltverschmutzungen und sonstige Tätigkeiten in der Abfallbewirtschaftung,3,0.012
+Steglitz-Zehlendorf,"Bibliotheken, Archive, Museen, botanische und zoologische Gärten",14,0.054
+Steglitz-Zehlendorf,"Datenverarbeitung, Hosting und Erbringung sonstiger Informationsdienstleistungen",243,0.945
+Steglitz-Zehlendorf,Einzelhandel,3593,13.975
+Steglitz-Zehlendorf,Energieversorgung,226,0.879
+Steglitz-Zehlendorf,Erbringung von Dienstleistungen der Informationstechnologie,1424,5.539
+Steglitz-Zehlendorf,"Erbringung von Dienstleistungen des Sports, der Unterhaltung und der Erholung",459,1.785
+Steglitz-Zehlendorf,Erbringung von Finanzdienstleistungen,2003,7.791
+Steglitz-Zehlendorf,Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen,944,3.672
+Steglitz-Zehlendorf,Erbringung von überwiegend persönlichen Dienstleistungen,925,3.598
+Steglitz-Zehlendorf,Erziehung und Unterricht,702,2.73
+Steglitz-Zehlendorf,Exterritoriale Organisationen und Körperschaften,3,0.012
+Steglitz-Zehlendorf,Fischerei und Aquakultur,1,0.004
+Steglitz-Zehlendorf,Forschung und Entwicklung,122,0.475
+Steglitz-Zehlendorf,Forstwirtschaft und Holzeinschlag,6,0.023
+Steglitz-Zehlendorf,Gastronomie,1064,4.138
+Steglitz-Zehlendorf,"Gebäudebetreuung, Garten- und Landschaftsbau",797,3.1
+Steglitz-Zehlendorf,Gesundheitswesen,341,1.326
+Steglitz-Zehlendorf,Getränkeherstellung,10,0.039
+Steglitz-Zehlendorf,Großhandel,1175,4.57
+Steglitz-Zehlendorf,Grundstücks- und Wohnungswesen,2507,9.751
+Steglitz-Zehlendorf,"Heime, ohne Erholungs- und Ferienheime",54,0.21
+Steglitz-Zehlendorf,Herstellung von Bekleidung,27,0.105
+Steglitz-Zehlendorf,"Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen",57,0.222
+Steglitz-Zehlendorf,"Herstellung von Druckerzeugnissen, Vervielfältigung von bespielten Ton-, Bild- und Datenträgern",35,0.136
+Steglitz-Zehlendorf,"Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden",10,0.039
+Steglitz-Zehlendorf,Herstellung von Gummi- und Kunststoffwaren,6,0.023
+Steglitz-Zehlendorf,"Herstellung von Holz-, Flecht-, Korb- und Korkwaren, ohne Möbel",8,0.031
+Steglitz-Zehlendorf,Herstellung von Kraftwagen und Kraftwagenteilen,3,0.012
+Steglitz-Zehlendorf,"Herstellung von Leder, Lederwaren und ähnlichen Produkten aus anderen Materialen",7,0.027
+Steglitz-Zehlendorf,Herstellung von Metallerzeugnissen,15,0.058
+Steglitz-Zehlendorf,Herstellung von Möbeln,15,0.058
+Steglitz-Zehlendorf,Herstellung von Nahrungs- und Futtermitteln,105,0.408
+Steglitz-Zehlendorf,"Herstellung von Papier, Pappe und Waren daraus",5,0.019
+Steglitz-Zehlendorf,Herstellung von Textilien,36,0.14
+Steglitz-Zehlendorf,Herstellung von chemischen Erzeugnissen,36,0.14
+Steglitz-Zehlendorf,Herstellung von elektrischen Ausrüstungen,19,0.074
+Steglitz-Zehlendorf,Herstellung von pharmazeutischen Erzeugnissen,12,0.047
+Steglitz-Zehlendorf,Herstellung von sonstigen Waren,152,0.591
+Steglitz-Zehlendorf,"Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen, Kinos, Tonstudios und Verlegen von Musik",429,1.669
+Steglitz-Zehlendorf,Hochbau,131,0.51
+Steglitz-Zehlendorf,"Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen, ohne Sozialwesen und Sport",91,0.354
+Steglitz-Zehlendorf,Kunstschaffende Tätigkeiten und Tätigkeiten in der darstellenden Kunst,261,1.015
+Steglitz-Zehlendorf,Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr,175,0.681
+Steglitz-Zehlendorf,Landverkehr und Transport in Rohrfernleitungen,381,1.482
+Steglitz-Zehlendorf,"Landwirtschaft, Jagd und damit verbundene Tätigkeiten",32,0.124
+Steglitz-Zehlendorf,Luftfahrt,5,0.019
+Steglitz-Zehlendorf,Maschinenbau,21,0.082
+Steglitz-Zehlendorf,Metallerzeugung und -bearbeitung,6,0.023
+Steglitz-Zehlendorf,Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten,676,2.629
+Steglitz-Zehlendorf,"Post-, Kurier- und Expressdienste",153,0.595
+Steglitz-Zehlendorf,Private Haushalte mit Hauspersonal,2,0.008
+Steglitz-Zehlendorf,"Rechts- und Steuerberatung, Wirtschaftsprüfung",305,1.186
+Steglitz-Zehlendorf,"Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen",163,0.634
+Steglitz-Zehlendorf,Reparatur und Instandhaltung von Datenverarbeitungsgeräten und Gebrauchsgütern sowie von Kraftwagen und Krafträdern,95,0.37
+Steglitz-Zehlendorf,"Reparatur, Instandhaltung und Installation von Maschinen und Ausrüstungen",15,0.058
+Steglitz-Zehlendorf,"Rundfunkveranstalter, Nachrichtenagenturen und sonstige Verbreitung von Medieninhalten",293,1.14
+Steglitz-Zehlendorf,"Sammlung, Verwertung und Beseitigung von Abfällen",19,0.074
+Steglitz-Zehlendorf,Schifffahrt,2,0.008
+Steglitz-Zehlendorf,Sonstige wissenschaftliche und technische Tätigkeiten,676,2.629
+Steglitz-Zehlendorf,Sonstiger Fahrzeugbau,6,0.023
+Steglitz-Zehlendorf,"Sozialwesen, ohne Heime",341,1.326
+Steglitz-Zehlendorf,"Spiel-, Wett- und Lotteriewesen",42,0.163
+Steglitz-Zehlendorf,Tabakverarbeitung,1,0.004
+Steglitz-Zehlendorf,Telekommunikation,25,0.097
+Steglitz-Zehlendorf,Tiefbau,23,0.089
+Steglitz-Zehlendorf,"Tätigkeiten von Architektur- und Ingenieurbüros, technische, physikalische und chemische Untersuchung",388,1.509
+Steglitz-Zehlendorf,Verlagswesen,147,0.572
+Steglitz-Zehlendorf,Vermietung und Leasing,205,0.797
+Steglitz-Zehlendorf,Vermittlung und Überlassung von Arbeitskräften,120,0.467
+Steglitz-Zehlendorf,"Versicherungen, Rückversicherungen und Pensionskassen, ohne Sozialversicherung",4,0.016
+Steglitz-Zehlendorf,"Verwaltung und Führung von Unternehmen und Betrieben, Unternehmensberatung",1500,5.834
+Steglitz-Zehlendorf,Veterinärwesen,3,0.012
+Steglitz-Zehlendorf,"Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe",708,2.754
+Steglitz-Zehlendorf,Wach- und Sicherheitsdienste sowie Detekteien,95,0.37
+Steglitz-Zehlendorf,Wasserversorgung,3,0.012
+Steglitz-Zehlendorf,Werbung und Marktforschung sowie Public-Relations-Beratung,885,3.442
+Steglitz-Zehlendorf,,6,0.023
+Tempelhof-Schöneberg,Abwasserentsorgung,11,0.029
+Tempelhof-Schöneberg,Beherbergung,390,1.025
+Tempelhof-Schöneberg,Beseitigung von Umweltverschmutzungen und sonstige Tätigkeiten in der Abfallbewirtschaftung,5,0.013
+Tempelhof-Schöneberg,"Bibliotheken, Archive, Museen, botanische und zoologische Gärten",40,0.105
+Tempelhof-Schöneberg,"Datenverarbeitung, Hosting und Erbringung sonstiger Informationsdienstleistungen",310,0.814
+Tempelhof-Schöneberg,Einzelhandel,5336,14.018
+Tempelhof-Schöneberg,Energieversorgung,200,0.525
+Tempelhof-Schöneberg,Erbringung von Dienstleistungen der Informationstechnologie,2083,5.472
+Tempelhof-Schöneberg,"Erbringung von Dienstleistungen des Sports, der Unterhaltung und der Erholung",685,1.8
+Tempelhof-Schöneberg,Erbringung von Dienstleistungen für den Bergbau und für die Gewinnung von Steinen und Erden,2,0.005
+Tempelhof-Schöneberg,Erbringung von Finanzdienstleistungen,1872,4.918
+Tempelhof-Schöneberg,Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen,1199,3.15
+Tempelhof-Schöneberg,Erbringung von überwiegend persönlichen Dienstleistungen,1215,3.192
+Tempelhof-Schöneberg,Erziehung und Unterricht,911,2.393
+Tempelhof-Schöneberg,Exterritoriale Organisationen und Körperschaften,3,0.008
+Tempelhof-Schöneberg,Fischerei und Aquakultur,2,0.005
+Tempelhof-Schöneberg,Forschung und Entwicklung,156,0.41
+Tempelhof-Schöneberg,Forstwirtschaft und Holzeinschlag,1,0.003
+Tempelhof-Schöneberg,Gastronomie,1881,4.942
+Tempelhof-Schöneberg,"Gebäudebetreuung, Garten- und Landschaftsbau",990,2.601
+Tempelhof-Schöneberg,Gesundheitswesen,318,0.835
+Tempelhof-Schöneberg,Getränkeherstellung,18,0.047
+Tempelhof-Schöneberg,"Gewinnung von Steinen und Erden, sonstiger Bergbau",1,0.003
+Tempelhof-Schöneberg,Großhandel,1876,4.928
+Tempelhof-Schöneberg,Grundstücks- und Wohnungswesen,2435,6.397
+Tempelhof-Schöneberg,"Heime, ohne Erholungs- und Ferienheime",46,0.121
+Tempelhof-Schöneberg,Herstellung von Bekleidung,52,0.137
+Tempelhof-Schöneberg,"Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen",98,0.257
+Tempelhof-Schöneberg,"Herstellung von Druckerzeugnissen, Vervielfältigung von bespielten Ton-, Bild- und Datenträgern",77,0.202
+Tempelhof-Schöneberg,"Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden",18,0.047
+Tempelhof-Schöneberg,Herstellung von Gummi- und Kunststoffwaren,31,0.081
+Tempelhof-Schöneberg,"Herstellung von Holz-, Flecht-, Korb- und Korkwaren, ohne Möbel",19,0.05
+Tempelhof-Schöneberg,Herstellung von Kraftwagen und Kraftwagenteilen,19,0.05
+Tempelhof-Schöneberg,"Herstellung von Leder, Lederwaren und ähnlichen Produkten aus anderen Materialen",5,0.013
+Tempelhof-Schöneberg,Herstellung von Metallerzeugnissen,53,0.139
+Tempelhof-Schöneberg,Herstellung von Möbeln,22,0.058
+Tempelhof-Schöneberg,Herstellung von Nahrungs- und Futtermitteln,174,0.457
+Tempelhof-Schöneberg,"Herstellung von Papier, Pappe und Waren daraus",10,0.026
+Tempelhof-Schöneberg,Herstellung von Textilien,62,0.163
+Tempelhof-Schöneberg,Herstellung von Waren und Erbringung von Dienstleistungen durch private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt,1,0.003
+Tempelhof-Schöneberg,Herstellung von chemischen Erzeugnissen,55,0.144
+Tempelhof-Schöneberg,Herstellung von elektrischen Ausrüstungen,55,0.144
+Tempelhof-Schöneberg,Herstellung von pharmazeutischen Erzeugnissen,14,0.037
+Tempelhof-Schöneberg,Herstellung von sonstigen Waren,260,0.683
+Tempelhof-Schöneberg,"Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen, Kinos, Tonstudios und Verlegen von Musik",740,1.944
+Tempelhof-Schöneberg,Hochbau,215,0.565
+Tempelhof-Schöneberg,"Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen, ohne Sozialwesen und Sport",121,0.318
+Tempelhof-Schöneberg,Kokerei und Mineralölverarbeitung,1,0.003
+Tempelhof-Schöneberg,Kunstschaffende Tätigkeiten und Tätigkeiten in der darstellenden Kunst,450,1.182
+Tempelhof-Schöneberg,Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr,333,0.875
+Tempelhof-Schöneberg,Landverkehr und Transport in Rohrfernleitungen,777,2.041
+Tempelhof-Schöneberg,"Landwirtschaft, Jagd und damit verbundene Tätigkeiten",33,0.087
+Tempelhof-Schöneberg,Luftfahrt,4,0.011
+Tempelhof-Schöneberg,Maschinenbau,58,0.152
+Tempelhof-Schöneberg,Metallerzeugung und -bearbeitung,6,0.016
+Tempelhof-Schöneberg,Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten,688,1.807
+Tempelhof-Schöneberg,"Post-, Kurier- und Expressdienste",332,0.872
+Tempelhof-Schöneberg,Private Haushalte mit Hauspersonal,2,0.005
+Tempelhof-Schöneberg,"Rechts- und Steuerberatung, Wirtschaftsprüfung",313,0.822
+Tempelhof-Schöneberg,"Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen",295,0.775
+Tempelhof-Schöneberg,Reparatur und Instandhaltung von Datenverarbeitungsgeräten und Gebrauchsgütern sowie von Kraftwagen und Krafträdern,202,0.531
+Tempelhof-Schöneberg,"Reparatur, Instandhaltung und Installation von Maschinen und Ausrüstungen",16,0.042
+Tempelhof-Schöneberg,"Rundfunkveranstalter, Nachrichtenagenturen und sonstige Verbreitung von Medieninhalten",369,0.969
+Tempelhof-Schöneberg,"Sammlung, Verwertung und Beseitigung von Abfällen",35,0.092
+Tempelhof-Schöneberg,Schifffahrt,2,0.005
+Tempelhof-Schöneberg,Sonstige wissenschaftliche und technische Tätigkeiten,1055,2.772
+Tempelhof-Schöneberg,Sonstiger Fahrzeugbau,18,0.047
+Tempelhof-Schöneberg,"Sozialwesen, ohne Heime",3316,8.711
+Tempelhof-Schöneberg,"Spiel-, Wett- und Lotteriewesen",132,0.347
+Tempelhof-Schöneberg,Tabakverarbeitung,1,0.003
+Tempelhof-Schöneberg,Telekommunikation,51,0.134
+Tempelhof-Schöneberg,Tiefbau,46,0.121
+Tempelhof-Schöneberg,"Tätigkeiten von Architektur- und Ingenieurbüros, technische, physikalische und chemische Untersuchung",564,1.482
+Tempelhof-Schöneberg,Verlagswesen,178,0.468
+Tempelhof-Schöneberg,Vermietung und Leasing,308,0.809
+Tempelhof-Schöneberg,Vermittlung und Überlassung von Arbeitskräften,171,0.449
+Tempelhof-Schöneberg,"Versicherungen, Rückversicherungen und Pensionskassen, ohne Sozialversicherung",13,0.034
+Tempelhof-Schöneberg,"Verwaltung und Führung von Unternehmen und Betrieben, Unternehmensberatung",1607,4.222
+Tempelhof-Schöneberg,Veterinärwesen,3,0.008
+Tempelhof-Schöneberg,"Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe",1193,3.134
+Tempelhof-Schöneberg,Wach- und Sicherheitsdienste sowie Detekteien,161,0.423
+Tempelhof-Schöneberg,Werbung und Marktforschung sowie Public-Relations-Beratung,1226,3.221
+Tempelhof-Schöneberg,"Öffentliche Verwaltung, Verteidigung, Sozialversicherung",1,0.003
+Tempelhof-Schöneberg,,18,0.047
+Treptow-Köpenick,Abwasserentsorgung,5,0.024
+Treptow-Köpenick,Beherbergung,127,0.599
+Treptow-Köpenick,Beseitigung von Umweltverschmutzungen und sonstige Tätigkeiten in der Abfallbewirtschaftung,1,0.005
+Treptow-Köpenick,"Bibliotheken, Archive, Museen, botanische und zoologische Gärten",6,0.028
+Treptow-Köpenick,"Datenverarbeitung, Hosting und Erbringung sonstiger Informationsdienstleistungen",195,0.92
+Treptow-Köpenick,Einzelhandel,3160,14.908
+Treptow-Köpenick,Energieversorgung,193,0.911
+Treptow-Köpenick,Erbringung von Dienstleistungen der Informationstechnologie,1237,5.836
+Treptow-Köpenick,"Erbringung von Dienstleistungen des Sports, der Unterhaltung und der Erholung",555,2.618
+Treptow-Köpenick,Erbringung von Finanzdienstleistungen,909,4.288
+Treptow-Köpenick,Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen,780,3.68
+Treptow-Köpenick,Erbringung von überwiegend persönlichen Dienstleistungen,916,4.321
+Treptow-Köpenick,Erziehung und Unterricht,586,2.765
+Treptow-Köpenick,Exterritoriale Organisationen und Körperschaften,1,0.005
+Treptow-Köpenick,Forschung und Entwicklung,187,0.882
+Treptow-Köpenick,Forstwirtschaft und Holzeinschlag,4,0.019
+Treptow-Köpenick,Gastronomie,974,4.595
+Treptow-Köpenick,"Gebäudebetreuung, Garten- und Landschaftsbau",782,3.689
+Treptow-Köpenick,Gesundheitswesen,207,0.977
+Treptow-Köpenick,Getränkeherstellung,17,0.08
+Treptow-Köpenick,"Gewinnung von Steinen und Erden, sonstiger Bergbau",1,0.005
+Treptow-Köpenick,Großhandel,883,4.166
+Treptow-Köpenick,Grundstücks- und Wohnungswesen,1101,5.194
+Treptow-Köpenick,"Heime, ohne Erholungs- und Ferienheime",26,0.123
+Treptow-Köpenick,Herstellung von Bekleidung,30,0.142
+Treptow-Köpenick,"Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen",111,0.524
+Treptow-Köpenick,"Herstellung von Druckerzeugnissen, Vervielfältigung von bespielten Ton-, Bild- und Datenträgern",53,0.25
+Treptow-Köpenick,"Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden",17,0.08
+Treptow-Köpenick,Herstellung von Gummi- und Kunststoffwaren,8,0.038
+Treptow-Köpenick,"Herstellung von Holz-, Flecht-, Korb- und Korkwaren, ohne Möbel",9,0.042
+Treptow-Köpenick,Herstellung von Kraftwagen und Kraftwagenteilen,13,0.061
+Treptow-Köpenick,"Herstellung von Leder, Lederwaren und ähnlichen Produkten aus anderen Materialen",8,0.038
+Treptow-Köpenick,Herstellung von Metallerzeugnissen,37,0.175
+Treptow-Köpenick,Herstellung von Möbeln,12,0.057
+Treptow-Köpenick,Herstellung von Nahrungs- und Futtermitteln,69,0.326
+Treptow-Köpenick,"Herstellung von Papier, Pappe und Waren daraus",9,0.042
+Treptow-Köpenick,Herstellung von Textilien,35,0.165
+Treptow-Köpenick,Herstellung von chemischen Erzeugnissen,39,0.184
+Treptow-Köpenick,Herstellung von elektrischen Ausrüstungen,45,0.212
+Treptow-Köpenick,Herstellung von pharmazeutischen Erzeugnissen,9,0.042
+Treptow-Köpenick,Herstellung von sonstigen Waren,180,0.849
+Treptow-Köpenick,"Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen, Kinos, Tonstudios und Verlegen von Musik",484,2.283
+Treptow-Köpenick,Hochbau,84,0.396
+Treptow-Köpenick,"Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen, ohne Sozialwesen und Sport",64,0.302
+Treptow-Köpenick,Kunstschaffende Tätigkeiten und Tätigkeiten in der darstellenden Kunst,439,2.071
+Treptow-Köpenick,Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr,218,1.028
+Treptow-Köpenick,Landverkehr und Transport in Rohrfernleitungen,379,1.788
+Treptow-Köpenick,"Landwirtschaft, Jagd und damit verbundene Tätigkeiten",28,0.132
+Treptow-Köpenick,Luftfahrt,4,0.019
+Treptow-Köpenick,Maschinenbau,45,0.212
+Treptow-Köpenick,Metallerzeugung und -bearbeitung,6,0.028
+Treptow-Köpenick,Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten,566,2.67
+Treptow-Köpenick,"Post-, Kurier- und Expressdienste",227,1.071
+Treptow-Köpenick,Private Haushalte mit Hauspersonal,2,0.009
+Treptow-Köpenick,"Rechts- und Steuerberatung, Wirtschaftsprüfung",183,0.863
+Treptow-Köpenick,"Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen",133,0.627
+Treptow-Köpenick,Reparatur und Instandhaltung von Datenverarbeitungsgeräten und Gebrauchsgütern sowie von Kraftwagen und Krafträdern,132,0.623
+Treptow-Köpenick,"Reparatur, Instandhaltung und Installation von Maschinen und Ausrüstungen",29,0.137
+Treptow-Köpenick,"Rundfunkveranstalter, Nachrichtenagenturen und sonstige Verbreitung von Medieninhalten",292,1.378
+Treptow-Köpenick,"Sammlung, Verwertung und Beseitigung von Abfällen",19,0.09
+Treptow-Köpenick,Schifffahrt,12,0.057
+Treptow-Köpenick,Sonstige wissenschaftliche und technische Tätigkeiten,691,3.26
+Treptow-Köpenick,Sonstiger Fahrzeugbau,9,0.042
+Treptow-Köpenick,"Sozialwesen, ohne Heime",228,1.076
+Treptow-Köpenick,"Spiel-, Wett- und Lotteriewesen",82,0.387
+Treptow-Köpenick,Telekommunikation,15,0.071
+Treptow-Köpenick,Tiefbau,30,0.142
+Treptow-Köpenick,"Tätigkeiten von Architektur- und Ingenieurbüros, technische, physikalische und chemische Untersuchung",422,1.991
+Treptow-Köpenick,Verlagswesen,69,0.326
+Treptow-Köpenick,Vermietung und Leasing,263,1.241
+Treptow-Köpenick,Vermittlung und Überlassung von Arbeitskräften,109,0.514
+Treptow-Köpenick,"Versicherungen, Rückversicherungen und Pensionskassen, ohne Sozialversicherung",12,0.057
+Treptow-Köpenick,"Verwaltung und Führung von Unternehmen und Betrieben, Unternehmensberatung",802,3.784
+Treptow-Köpenick,Veterinärwesen,1,0.005
+Treptow-Köpenick,"Vorbereitende Baustellenarbeiten, Bauinstallation und sonstiges Ausbaugewerbe",761,3.59
+Treptow-Köpenick,Wach- und Sicherheitsdienste sowie Detekteien,110,0.519
+Treptow-Köpenick,Wasserversorgung,1,0.005
+Treptow-Köpenick,Werbung und Marktforschung sowie Public-Relations-Beratung,702,3.312
+Treptow-Köpenick,,7,0.033
+,Einzelhandel,1,
+,Energieversorgung,1,
+,Erbringung von Dienstleistungen der Informationstechnologie,2,
+,Erbringung von Finanzdienstleistungen,1,
+,Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen,1,
+,Erbringung von überwiegend persönlichen Dienstleistungen,1,
+,Erziehung und Unterricht,1,
+,Gastronomie,1,
+,Großhandel,1,
+,Grundstücks- und Wohnungswesen,5,
+,Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr,1,
+,"Post-, Kurier- und Expressdienste",1,

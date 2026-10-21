@@ -1,10 +1,10 @@
-# Standortanalyse von Unternehmen in Berlin
+﻿# Standortanalyse von Unternehmen in Berlin
 A reproducible data-science project exploring the geographic distribution of businesses in Berlin, differences between districts and planning areas, and spatial associations between business categories.
 
 The project is designed to keep data preparation, analysis, visualization, and reporting reproducible. Observed spatial associations are descriptive; they do not establish causation.
 
 ## Project status
-Initial project scaffold. Exploratory findings should be regenerated from the source data before being treated as final results.
+Exploratory analysis includes monthly snapshot trends, geographic distribution, district comparisons, and business-category summaries. Findings remain subject to source-data validation.
 
 ## Project questions
 - How are registered businesses distributed across Berlin's districts and planning areas?
@@ -92,34 +92,42 @@ Use fixed random seeds where sampling is involved. Save analysis parameters and 
 ## License and data attribution
 No project license has been selected yet. Before adding a license, decide how the code may be reused. Dataset rights and terms are separate from the repository's code license. Cite the source dataset and review its applicable terms before redistributing data or derived extracts.
 
-## Monthly Business Trend
+## Monthly Trend and Key Findings
 
-This analysis examines monthly business-record counts in Berlin using historical
-IHK Berlin Gewerbedaten snapshots. The chart compares the original monthly series
-with an exploratory adjusted series.
+This project compares monthly snapshots of unique business IDs in the IHK Berlin Gewerbedaten dataset. These figures are **records/unique IDs present in each snapshot**, not independently verified counts of businesses that opened or closed.
 
 ![Monthly business trend comparison](reports/figures/monthly_business_trend_comparison.png)
 
-### Data source
+![Month-over-month change](reports/figures/business_month_over_month_change.png)
+
+### Key findings
+
+- **Longer-term direction:** the series runs from 2023-07 (351,869 unique IDs) to 2026-10 (366,374). The latest month may be incomplete, so endpoint comparisons need caution.
+- **Sharp drop in early 2026:** December 2025 had 380,059 IDs, January 2026 had 380,490, and February had 357,138. January-to-February change was 23,352 IDs (-6.14%).
+- **Partial recovery:** September 2026 had 368,841 IDs, above February's 357,138, but below January's 380,490.
+- **October 2026:** the snapshot contains 366,374 IDs. Verify that October is a complete monthly snapshot before interpreting the decline from September as a real-world change.
+- **Interpretation:** the February discontinuity is a material data-coverage / data-quality signal. Counts alone do **not** prove that this number of real businesses closed. Check source release notes, schema and identifier changes, and snapshot completeness before drawing a causal conclusion.
+
+### Exploratory adjustment caveat
+
+The current trend CSV reports 55 IDs removed from the January 2026 count by the current adjustment rule. This is **not** the previously discussed approximately 27,000-record cohort. Do not describe the adjusted series as removing 27,000 records until the original cohort and rule have been reproduced and verified. Candidate IDs are not confirmed errors.
+
+### Geographic and category views
+
+![Business locations in Berlin](reports/figures/business_locations_berlin.png)
+
+![Top business categories](reports/figures/top_business_categories.png)
+
+![Businesses by district](reports/figures/businesses_by_district.png)
+
+### Data source and reproducibility
 
 - **Publisher:** IHK Berlin
-- **Official dataset page:** https://www.ihk.de/berlin/service-und-beratung/digitalisierung/open-data-5691102
-- **Official dataset repository and archive:** https://github.com/IHKBerlin/IHKBerlin_Gewerbedaten
-- **License stated by the publisher:** CC0 (Creative Commons Zero)
-- **Local source snapshot used for this analysis:** `documents-export-2026-10-17.zip`
-- **Coverage analyzed:** monthly CSV snapshots available from 2023 through October 2026.
+- **Official data page:** https://www.ihk.de/berlin/service-und-beratung/digitalisierung/open-data-5691102
+- **Publisher's dataset repository:** https://github.com/IHKBerlin/IHKBerlin_Gewerbedaten
+- **Local source archive analyzed:** `documents-export-2026-10-17.zip`
+- **Coverage in the current trend table:** 2023-07 through 2026-10
+- **License:** the publisher's repository states CC0. Re-check current source terms and attribution notes before redistributing source files or derived data.
+- The large raw archive is intentionally not committed to this repository. Obtain it from the publisher and place it in `data/raw/` to reproduce the analysis.
 
-The raw archive is not included in this repository because of its size. Obtain the
-source files from the official publisher before rerunning the analysis.
-
-### Methodology and limitations
-
-Monthly counts are calculated from the `opendata_id` field in the monthly source
-files. The adjusted series is an exploratory comparison based on candidate IDs
-associated with the January 2026 anomaly. These candidates have not been
-independently confirmed to be erroneous records; therefore, the adjusted series
-must not be interpreted as an officially corrected count.
-
-Source data may be revised by the publisher. Results depend on the snapshot date
-and the inclusion and exclusion rules used. Check the source archive and analysis
-code before comparing results across runs.
+The location chart plots valid coordinates from the latest monthly CSV within a broad Berlin bounding box. It is a point distribution, not a street map. Overlapping records may represent multiple records at the same coordinate; shared coordinates are not automatically errors.

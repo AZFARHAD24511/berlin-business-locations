@@ -1,0 +1,31 @@
+{
+  "source_file": "documents-export-2026-10-17.zip:2026_10_IHK_Berlin_Gewerbedaten.csv",
+  "snapshot": "2026-10",
+  "total_records": 366374,
+  "unique_nonmissing_ids": 366374,
+  "missing_ids": 0,
+  "duplicate_nonmissing_ids": 0,
+  "duplicate_full_rows": 0,
+  "records_missing_latitude": 6,
+  "records_missing_longitude": 6,
+  "records_with_valid_coordinates": 366368,
+  "missing_values_by_column": {
+    "latitude": 6,
+    "longitude": 6,
+    "ihk_branch_id": 90,
+    "nace_id": 90,
+    "branch_top_level_id": 90,
+    "ihk_branch_desc": 91,
+    "nace_desc": 207,
+    "branch_top_level_desc": 162,
+    "business_age": 901,
+    "Bezirk": 17,
+    "planungsraum_id": 17,
+    "Planungsraum": 17,
+    "Bezirksregion": 17,
+    "Prognoseraum": 17,
+    "Ortsteil": 24
+  },
+  "outside_approximate_berlin_bounds": 6,
+  "note": "Bounding box is approximate; out-of-bounds records require investigation and are not automatically errors."
+}
