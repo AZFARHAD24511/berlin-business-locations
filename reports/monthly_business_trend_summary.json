@@ -1,0 +1,10 @@
+{
+  "months": 40,
+  "first_month": "2023-07",
+  "last_month": "2026-10",
+  "january_2026_unique_ids": 380490,
+  "february_2026_unique_ids": 357138,
+  "january_ids_absent_in_february": 27623,
+  "january_ids_absent_in_december_and_february": 55,
+  "warning": "January-only IDs are candidates, not confirmed errors. Verify the historical anomaly evidence before treating the adjusted trend as the definitive result."
+}
