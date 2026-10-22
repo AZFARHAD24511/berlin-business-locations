@@ -131,6 +131,15 @@ This project compares monthly snapshots of unique business IDs in the IHK Berlin
 The current trend CSV reports 55 IDs removed from the January 2026 count by the current adjustment rule. This is **not** the previously discussed approximately 27,000-record cohort. Do not describe the adjusted series as removing 27,000 records until the original cohort and rule have been reproduced and verified. Candidate IDs are not confirmed errors.
 
 ### Geographic and category views
+### Business Distribution Across Berlin Districts
+
+The district-level analysis shows that business records are concentrated in a small number of Berlin districts. **Mitte** has the largest share, accounting for **16.05%** of all records (58,816), followed by **Charlottenburg-Wilmersdorf** with **14.89%** (54,551) and **Pankow** with **10.67%** (39,106).
+
+Together, these three districts account for approximately **41.62%** of the records. The five largest districts represent around **61.92%**, indicating a substantial concentration of recorded businesses in these areas.
+
+At the other end of the distribution, **Marzahn-Hellersdorf** accounts for 4.01% of records (14,690), while only 17 records (0.005%) have an unknown or missing district.
+
+**Key takeaway:** Mitte and Charlottenburg-Wilmersdorf are the largest districts by recorded business count. However, these figures represent the distribution of records, not business density or economic activity relative to population or district area. Further analysis using population, land area, or business types would be needed to make those comparisons.
 
 ![Business locations in Berlin](reports/figures/business_locations_berlin.png)
 
