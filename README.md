@@ -144,7 +144,15 @@ At the other end of the distribution, **Marzahn-Hellersdorf** accounts for 4.01%
 ![Business locations in Berlin](reports/figures/business_locations_berlin.png)
 
 ![Top business categories](reports/figures/top_business_categories.png)
+### Industry Composition by Berlin District
 
+The industry breakdown reveals both common patterns and local differences across Berlin's districts. **Retail trade (*Einzelhandel*) is the leading category in all 12 districts**, accounting for approximately 11.9% of records in Mitte and reaching 19.2% in Spandau. It also represents 16.8% in Neukölln, 16.7% in Lichtenberg, and 16.6% in Marzahn-Hellersdorf.
+
+Other industries show more pronounced geographic variation. In **Charlottenburg-Wilmersdorf**, real estate activities (*Grundstücks- und Wohnungswesen*) lead with 16.2% of district records, followed by retail trade (11.4%) and financial services (10.3%). In **Mitte**, financial services account for 9.8%, while information technology services represent 7.0%. **Friedrichshain-Kreuzberg** has a notable concentration of gastronomy businesses (8.3%), alongside retail trade (11.9%). In **Tempelhof-Schöneberg**, social work activities excluding residential care (*Sozialwesen, ohne Heime*) account for 8.7% of records.
+
+**Key takeaway:** Retail trade is the most consistently prominent industry across Berlin's districts, while real estate, financial services, IT, gastronomy, and social work vary in their relative importance. These differences provide a useful starting point for investigating the sectoral profiles of individual districts.
+
+*Methodological note: Percentages represent each industry's share of records within the corresponding district, not its share of the entire city. Records with a missing district are listed separately and should not be interpreted as a geographic category. These counts describe recorded businesses; they do not, by themselves, measure employment, revenue, or economic performance.*
 ![Businesses by district](reports/figures/businesses_by_district.png)
 
 ### Data source and reproducibility
