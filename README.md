@@ -117,7 +117,11 @@ This project compares monthly snapshots of unique business IDs in the IHK Berlin
 ![Monthly business trend comparison](reports/figures/monthly_business_trend_comparison.png)
 
 ![Month-over-month change](reports/figures/business_month_over_month_change.png)
+**Note on the year-end decline:** According to information provided by IHK Berlin's Data Management team, the Chamber conducts an annual year-end review of its membership records by cross-checking them against tax authority data. Under its stated administrative procedure, certain small businesses operated by individuals may be removed from the IHK membership database if no trade tax return has been filed for five years or no trade tax number has been assigned. Businesses that are still operating can reportedly be reactivated after providing the relevant tax number.
 
+Consequently, a year-end decline in IHK membership figures may partly reflect administrative data cleaning rather than actual business closures. IHK Berlin also notes that its membership statistics differ from the official trade-registration statistics maintained by Berlin's district authorities. The extent to which this procedure explains the decline shown here cannot be established without additional data on annual removals and the precise definition of the series.
+
+**Source:** Written clarification from IHK Berlin, Data Management team. The explanation describes the Chamber's stated administrative procedure and should not be interpreted as independent proof that the entire decline is statistical rather than economic.
 ### Key findings
 
 - **Longer-term direction:** the series runs from 2023-07 (351,869 unique IDs) to 2026-10 (366,374). The latest month may be incomplete, so endpoint comparisons need caution.
